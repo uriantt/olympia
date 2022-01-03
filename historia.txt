@@ -1,0 +1,7 @@
+Esta es mi historia:
+
+El 10 de noviembre inicié a estudiar Python.
+
+El 28 de diciembre inicié con Git y GitHub
+
+Hoy es 2 de enero... reempiezo e curso
